@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+} 
+body {
+    background-color: rgb(226, 107, 4);
+}
+
+
+
+#imageToShow {
+    display: none;
+    width: 19vw;
+    height: 60vh;
+    margin: -65rem 40rem;
+}
+
+#imageToShow1 {
+    display: none;
+    width: 30vw;
+    height: 25rem;
+    margin: -65rem 40rem;
+}
+
+#imageToShow2 {
+    display: none;
+    width: 40vw;
+    height: 30rem;
+    margin: -65rem 40rem;
+}
+
+#imageToShow3 {
+    display: none;
+    width: 30vw;
+    height: 60vh;
+    margin: -50rem 40rem;
+}
+#imageToShow4 {
+    display: none;
+    width: 30vw;
+    height: 60vh;
+    margin: -50rem 40rem;
+}
+#imageToShow5 {
+    display: none;
+    width: 30vw;
+    height: 60vh;
+    margin: -36rem 40rem;
+}
+#imageToShow6 {
+    display: none;
+    width: 30vw;
+    height: 60vh;
+    margin: -36rem 40rem;
+}
+#imageToShow7 {
+    display: none;
+    width: 30vw;
+    height: 60vh;
+    margin: -36rem 40rem;
+}
+#imageToShow8 {
+    display: none;
+    width: 30vw;
+    height: 60vh;
+    margin: -33rem 40rem;
+}
+#imageToShow9 {
+    display: none;
+    width: 30vw;
+    height: 60vh;
+    margin: -30rem 40rem;
+}
+#imageToShow10 {
+    display: none;
+    width: 30vw;
+    height: 60vh;
+    margin: -20rem 40rem;
+}
+
+
+
+
+button {
+    display: flex;
+    padding: 10px 60px;
+    margin: 50px 50px;
+    font-size: larger;
+    font-weight: 600;
+    background-color: rgb(137, 122, 94);
+    color: white;
+    cursor: pointer;
+
+}
+header{
+    color:rgb(224, 13, 13);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: x-large;
+    align-items: center;
+}
